@@ -3,13 +3,12 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,next,ts&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,react,ts,tailwind,html,css,js,github&perline=4&theme=dark" />
+  </a>
 </p>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,github&theme=dark" />
-</p>
+<br/>
 
 ## About Me
 
