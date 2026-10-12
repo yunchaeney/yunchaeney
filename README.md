@@ -1,6 +1,5 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Hi%20there!%20👋&textBg=false&fontColor=111111&fontSize=48&desc=@yunchaeney&descSize=10&customColorList=0,3,4,14,15,18,19" />
-</p>
+<a href="https://vibrary.dev/u/yunchaeney?ref=readme"><img src="https://vibrary.dev/card/yunchaeney.png" width="100%" alt="yunchaeney — verified AI builder profile on Vibrary" /></a>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
